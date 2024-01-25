@@ -1,0 +1,27 @@
+name: Simple Bash Script Workflow
+
+on:
+  workflow_dispatch:
+    inputs:
+      example_input:
+        description: 'Example input for the workflow'
+        required: false
+        default: 'Default value'
+
+jobs:
+  run-bash-script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Run a simple Bash script
+        run: |
+          echo "Starting the Bash script..."
+          echo "Example input: ${{ github.event.inputs.example_input }}"
+          # Add your bash commands here
+          echo "Today's date is:"
+          date
+          # Example of using the input
+          echo "Input was: ${{ github.event.inputs.example_input }}"
+          
