@@ -14,7 +14,7 @@ jobs:
 workflows:
   wf1:
     jobs:
-      - print-environment variables
+      - print-environment-variables
 # jobs:
 #   test:
 #     docker:
