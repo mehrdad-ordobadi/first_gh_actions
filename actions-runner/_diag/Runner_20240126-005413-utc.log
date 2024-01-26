@@ -1,0 +1,117 @@
+[2024-01-26 00:54:13Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2024-01-26 00:54:13Z INFO HostContext] Well known directory 'Bin': '/Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner/bin'
+[2024-01-26 00:54:13Z INFO HostContext] Well known directory 'Root': '/Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner'
+[2024-01-26 00:54:13Z INFO HostContext] Well known config file 'Credentials': '/Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner/.credentials'
+[2024-01-26 00:54:13Z INFO HostContext] Well known directory 'Bin': '/Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner/bin'
+[2024-01-26 00:54:13Z INFO HostContext] Well known directory 'Root': '/Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner'
+[2024-01-26 00:54:13Z INFO HostContext] Well known config file 'Runner': '/Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner/.runner'
+[2024-01-26 00:54:13Z INFO Listener] Runner is built for OSX (Arm64) - osx-arm64.
+[2024-01-26 00:54:13Z INFO Listener] RuntimeInformation: Darwin 22.6.0 Darwin Kernel Version 22.6.0: Wed Jul  5 22:22:05 PDT 2023; root:xnu-8796.141.3~6/RELEASE_ARM64_T6000.
+[2024-01-26 00:54:13Z INFO Listener] Version: 2.312.0
+[2024-01-26 00:54:13Z INFO Listener] Commit: 1615de2f78ce16935be95ace79d35ed22b0837be
+[2024-01-26 00:54:13Z INFO Listener] Culture: en-US
+[2024-01-26 00:54:13Z INFO Listener] UI Culture: en-US
+[2024-01-26 00:54:13Z INFO HostContext] Well known directory 'Bin': '/Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner/bin'
+[2024-01-26 00:54:13Z INFO HostContext] Well known directory 'Root': '/Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner'
+[2024-01-26 00:54:13Z INFO Listener] Validating directory permissions for: '/Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner'
+[2024-01-26 00:54:13Z INFO CommandLineParser] Parse
+[2024-01-26 00:54:13Z INFO CommandLineParser] Parsing 1 args
+[2024-01-26 00:54:13Z INFO CommandLineParser] parsing argument
+[2024-01-26 00:54:13Z INFO CommandLineParser] HasArgs: False
+[2024-01-26 00:54:13Z INFO CommandLineParser] Adding Command: run
+[2024-01-26 00:54:13Z INFO Listener] Arguments parsed
+[2024-01-26 00:54:13Z INFO Runner] ExecuteCommand
+[2024-01-26 00:54:13Z INFO ConfigurationStore] currentAssemblyLocation: /Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner/bin/Runner.Listener.dll
+[2024-01-26 00:54:13Z INFO HostContext] Well known directory 'Bin': '/Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner/bin'
+[2024-01-26 00:54:13Z INFO ConfigurationStore] binPath: /Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner/bin
+[2024-01-26 00:54:13Z INFO HostContext] Well known directory 'Bin': '/Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner/bin'
+[2024-01-26 00:54:13Z INFO HostContext] Well known directory 'Root': '/Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner'
+[2024-01-26 00:54:13Z INFO ConfigurationStore] RootFolder: /Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner
+[2024-01-26 00:54:13Z INFO HostContext] Well known directory 'Bin': '/Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner/bin'
+[2024-01-26 00:54:13Z INFO HostContext] Well known directory 'Root': '/Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner'
+[2024-01-26 00:54:13Z INFO HostContext] Well known config file 'Runner': '/Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner/.runner'
+[2024-01-26 00:54:13Z INFO ConfigurationStore] ConfigFilePath: /Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner/.runner
+[2024-01-26 00:54:13Z INFO HostContext] Well known directory 'Bin': '/Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner/bin'
+[2024-01-26 00:54:13Z INFO HostContext] Well known directory 'Root': '/Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner'
+[2024-01-26 00:54:13Z INFO HostContext] Well known config file 'Credentials': '/Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner/.credentials'
+[2024-01-26 00:54:13Z INFO ConfigurationStore] CredFilePath: /Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner/.credentials
+[2024-01-26 00:54:13Z INFO HostContext] Well known directory 'Bin': '/Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner/bin'
+[2024-01-26 00:54:13Z INFO HostContext] Well known directory 'Root': '/Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner'
+[2024-01-26 00:54:13Z INFO HostContext] Well known config file 'MigratedCredentials': '/Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner/.credentials_migrated'
+[2024-01-26 00:54:13Z INFO ConfigurationStore] MigratedCredFilePath: /Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner/.credentials_migrated
+[2024-01-26 00:54:13Z INFO HostContext] Well known directory 'Bin': '/Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner/bin'
+[2024-01-26 00:54:13Z INFO HostContext] Well known directory 'Root': '/Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner'
+[2024-01-26 00:54:13Z INFO HostContext] Well known config file 'Service': '/Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner/.service'
+[2024-01-26 00:54:13Z INFO ConfigurationStore] ServiceConfigFilePath: /Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner/.service
+[2024-01-26 00:54:13Z INFO CommandSettings] Flag 'help': 'False'
+[2024-01-26 00:54:13Z INFO CommandSettings] Flag 'version': 'False'
+[2024-01-26 00:54:13Z INFO CommandSettings] Flag 'commit': 'False'
+[2024-01-26 00:54:13Z INFO CommandSettings] Flag 'check': 'False'
+[2024-01-26 00:54:13Z INFO CommandSettings] Command 'configure': 'False'
+[2024-01-26 00:54:13Z INFO CommandSettings] Command 'remove': 'False'
+[2024-01-26 00:54:13Z INFO CommandSettings] Command 'warmup': 'False'
+[2024-01-26 00:54:13Z INFO ConfigurationManager] LoadSettings
+[2024-01-26 00:54:13Z INFO ConfigurationStore] IsConfigured()
+[2024-01-26 00:54:13Z INFO ConfigurationStore] IsConfigured: True
+[2024-01-26 00:54:13Z INFO ConfigurationManager] Is configured: True
+[2024-01-26 00:54:13Z INFO ConfigurationStore] Read setting file: 322 chars
+[2024-01-26 00:54:13Z INFO ConfigurationManager] Settings Loaded
+[2024-01-26 00:54:13Z INFO ConfigurationStore] IsServiceConfigured()
+[2024-01-26 00:54:13Z INFO ConfigurationStore] IsServiceConfigured: False
+[2024-01-26 00:54:13Z INFO CommandSettings] Command 'run': 'True'
+[2024-01-26 00:54:13Z INFO ConfigurationStore] IsConfigured()
+[2024-01-26 00:54:13Z INFO ConfigurationStore] IsConfigured: True
+[2024-01-26 00:54:13Z INFO ConfigurationManager] Is configured: True
+[2024-01-26 00:54:13Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2024-01-26 00:54:13Z INFO Runner] Set runner startup type - Manual
+[2024-01-26 00:54:13Z INFO CommandSettings] Flag 'once': 'False'
+[2024-01-26 00:54:13Z INFO CommandSettings] Flag 'once': 'False'
+[2024-01-26 00:54:13Z INFO Runner] RunAsync
+[2024-01-26 00:54:13Z INFO ConfigurationManager] LoadSettings
+[2024-01-26 00:54:13Z INFO ConfigurationStore] IsConfigured()
+[2024-01-26 00:54:13Z INFO ConfigurationStore] IsConfigured: True
+[2024-01-26 00:54:13Z INFO ConfigurationManager] Is configured: True
+[2024-01-26 00:54:13Z INFO ConfigurationManager] Settings Loaded
+[2024-01-26 00:54:13Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "Mehrdads-MacBook-Pro-2",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus26.actions.githubusercontent.com/zsChxwOGJZtSU9OkukJsJ0JaPGFOhNqsj0noOL0cRl8MZBtKmq/",
+  "GitHubUrl": "https://github.com/mehrdad-ordobadi/first_gh_actions",
+  "WorkFolder": "_work"
+}
+[2024-01-26 00:54:13Z INFO MessageListener] Loading Credentials
+[2024-01-26 00:54:13Z INFO ConfigurationStore] HasCredentials()
+[2024-01-26 00:54:13Z INFO ConfigurationStore] stored True
+[2024-01-26 00:54:13Z INFO CredentialManager] GetCredentialProvider
+[2024-01-26 00:54:13Z INFO CredentialManager] Creating type OAuth
+[2024-01-26 00:54:13Z INFO CredentialManager] Creating credential type: OAuth
+[2024-01-26 00:54:13Z INFO HostContext] Well known directory 'Bin': '/Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner/bin'
+[2024-01-26 00:54:13Z INFO HostContext] Well known directory 'Root': '/Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner'
+[2024-01-26 00:54:13Z INFO HostContext] Well known config file 'RSACredentials': '/Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner/.credentials_rsaparams'
+[2024-01-26 00:54:13Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner/.credentials_rsaparams
+[2024-01-26 00:54:13Z INFO MessageListener] Attempt to create session.
+[2024-01-26 00:54:13Z INFO MessageListener] Connecting to the Runner Server...
+[2024-01-26 00:54:13Z INFO RunnerServer] EstablishVssConnection
+[2024-01-26 00:54:13Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2024-01-26 00:54:13Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-01-26 00:54:13Z INFO RunnerServer] EstablishVssConnection
+[2024-01-26 00:54:13Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-01-26 00:54:13Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-01-26 00:54:13Z INFO RunnerServer] EstablishVssConnection
+[2024-01-26 00:54:13Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-01-26 00:54:13Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-01-26 00:54:13Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-01-26 00:54:13Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-01-26 00:54:13Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-01-26 00:54:14Z INFO MessageListener] VssConnection created
+[2024-01-26 00:54:14Z INFO Terminal] WRITE LINE: 
+[2024-01-26 00:54:14Z INFO Terminal] WRITE LINE: 
+[2024-01-26 00:54:14Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner/.credentials_rsaparams
+[2024-01-26 00:54:14Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/mehrdadfaghih-ordobadi/Documents/Projects/Sprint2/Github-Actions/first_gh_actions/actions-runner/.credentials_rsaparams
+[2024-01-26 00:54:15Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2024-01-26 00:54:15Z INFO MessageListener] Session created.
+[2024-01-26 00:54:15Z INFO Terminal] WRITE LINE: Current runner version: '2.312.0'
+[2024-01-26 00:54:15Z INFO Terminal] WRITE LINE: 2024-01-26 00:54:15Z: Listening for Jobs
+[2024-01-26 00:54:15Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.

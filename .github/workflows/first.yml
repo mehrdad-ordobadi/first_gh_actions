@@ -10,11 +10,8 @@ on:
 
 jobs:
   run-bash-script:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-
       - name: Run a simple Bash script
         run: |
           echo "Starting the Bash script..."
