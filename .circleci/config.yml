@@ -12,9 +12,14 @@ jobs:
           command: | 
             printenv
             echo ""
+            cd ..
+            pwd
             ls -la
             echo ""
+            cd ..
             pwd
+            ls -la
+
 
 workflows:
   wf1:
