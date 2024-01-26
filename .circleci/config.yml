@@ -3,11 +3,11 @@
 # See: https://circleci.com/docs/configuration-reference
 version: 2.1
 jobs:
-  print-environment variables:
+  print-environment-variables:
     docker:
         - image: ubuntu:latest
     steps:
-      -run:
+      - run:
         name: Print environment variables
         command: printenv
 
