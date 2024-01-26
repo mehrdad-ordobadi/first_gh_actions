@@ -1,9 +1,0 @@
-﻿{
-  "agentId": 2,
-  "agentName": "Mehrdads-MacBook-Pro-2",
-  "poolId": 1,
-  "poolName": "Default",
-  "serverUrl": "https://pipelinesghubeus26.actions.githubusercontent.com/zsChxwOGJZtSU9OkukJsJ0JaPGFOhNqsj0noOL0cRl8MZBtKmq/",
-  "gitHubUrl": "https://github.com/mehrdad-ordobadi/first_gh_actions",
-  "workFolder": "_work"
-}
