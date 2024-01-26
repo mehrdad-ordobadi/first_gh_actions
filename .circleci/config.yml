@@ -8,8 +8,8 @@ jobs:
         - image: ubuntu:latest
     steps:
       - run:
-        name: Print environment variables
-        command: printenv
+          name: Print environment variables
+          command: printenv
 
 workflows:
   wf1:
