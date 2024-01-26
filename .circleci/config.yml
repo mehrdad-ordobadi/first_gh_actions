@@ -4,9 +4,14 @@
 version: 2.1
 jobs:
   print-environment variables:
-    command: printenc
+    docker:
+        - image: ubuntu:latest
+    steps:
+      -run:
+        name: Print environment variables
+        command: printenv
 
-workdflows:
+workflows:
   wf1:
     jobs:
       - print-environment variables
