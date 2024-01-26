@@ -10,7 +10,7 @@ on:
 
 jobs:
   run-bash-script:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
       - name: checking-out
         uses: actions/checkout@v2
