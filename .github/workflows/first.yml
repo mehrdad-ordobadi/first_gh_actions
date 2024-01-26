@@ -10,7 +10,7 @@ on:
 
 jobs:
   run-bash-script:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     steps:
       - name: Run a simple Bash script
         run: |
