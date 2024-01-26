@@ -27,7 +27,7 @@ workflows:
       - print-environment-variable1
       - print-environment-variable2:
           requires:
-            - print-environment-variables
+            - print-environment-variable1
 # jobs:
 #   test:
 #     docker:
