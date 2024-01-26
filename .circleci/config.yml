@@ -3,28 +3,31 @@
 # See: https://circleci.com/docs/configuration-reference
 version: 2.1
 jobs:
-  print-environment-variables:
+  print-environment-variable1:
     docker:
         - image: ubuntu:latest
     steps:
       - run:
-          name: Print environment variables
+          name: Print environment variables 1
           command: | 
-            printenv
-            echo ""
-            cd ..
-            pwd
-            ls -la
-            echo ""
-            cd ..
-            pwd
-            ls -la
+            echo "CIRCLE_WORKFLOW_JOB_ID: $CIRCLE_WORKFLOW_JOB_ID"
+  print-environment-variable2:
+    docker:
+        - image: ubuntu:latest
+    steps:
+      - run:
+          name: Print environment variables 2
+          command: | 
+            echo "CIRCLE_WORKFLOW_JOB_ID: $CIRCLE_WORKFLOW_JOB_ID"
 
 
 workflows:
   wf1:
     jobs:
-      - print-environment-variables
+      - print-environment-variable1
+      - print-environment-variable2:
+          requires:
+            - print-environment-variables
 # jobs:
 #   test:
 #     docker:
